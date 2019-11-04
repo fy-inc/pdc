@@ -1,0 +1,13 @@
+ 	README.md 	
+	dotproduct.c 	
+	helloworld.c 	
+	lagrange.c 	
+	matmul.c 	
+	matmul2dwraparoundmesh.c 	
+	matvec.c 	
+	oddeventr.c 	
+	prefix2dmesh.c 	
+	shufexch.c 	
+	simpson.c 	
+	sumofarray.c 	
+	trap.c 	
